@@ -1,0 +1,16 @@
+@media all and (min-width: 480px) {
+    
+    .Signup form {
+      padding: 20px 0;
+      margin: 0 auto;
+      max-width: 280px;
+      margin-left: 50px;
+    }
+
+    .Signup h3 {
+      margin: 20 auto;
+      max-width: 280px;
+      margin-left: 80px;/* Roboto */
+      color: #4151E2;
+    }
+  }
